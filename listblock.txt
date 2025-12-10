@@ -1,7 +1,5 @@
 https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt
-https://yague.me/blocklist.txt
-https://raw.githubusercontent.com/germanyague/blocklist/refs/heads/main/ASNblocklist.txt
-https://iplists.firehol.org/files/bds_atif.ipset
+https://raw.githubusercontent.com/germanyague/blocklist/refs/heads/main/blocklist.txthttps://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
