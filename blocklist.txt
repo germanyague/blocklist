@@ -1,4 +1,4 @@
-# Actualizacion 2026-09-28 12:00
+# Actualizacion 2026-09-28 13:00
 3.91.151.163
 34.22.191.92
 34.65.195.199
@@ -7,7 +7,9 @@
 35.205.88.64
 40.119.24.130
 40.124.123.98
+144.76.22.241
 147.182.206.72
+# Actualizacion 2026-09-28 12:00
 # Actualizacion 2026-09-28 11:00
 # Actualizacion 2026-09-28 10:00
 # Actualizacion 2026-09-28 09:00
@@ -136,7 +138,6 @@
 # Actualizacion 2026-09-24 13:00
 # Actualizacion 2026-09-24 12:00
 # Actualizacion 2026-09-24 11:00
-144.76.22.241
 # Actualizacion 2026-09-24 10:00
 # Actualizacion 2026-09-24 09:00
 # Actualizacion 2026-09-24 08:00
